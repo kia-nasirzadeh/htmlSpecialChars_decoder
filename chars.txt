@@ -1,0 +1,235 @@
+&#34;	&quot;	"	Quotation Mark
+&#38;	&amp;	&	Ampersand
+&#47;	&sol;	/	Slash
+&#60;	&lt;	<	Less Than Sign
+&#62;	&gt;	>	Greater Than Sign
+&#130;	&sbquo;	‚	Single Low-9 Quote
+&#132;	&bdquo;	„	Double Low-9 Quote
+&#134;	&dagger;	†	Dagger
+&#135;	&Dagger;	‡	Double Dagger
+&#137;	&permil;	‰	Per Mill Sign
+&#139;	&lsaquo;	‹	Single Left Angle Quote
+&#145;	&lsquo;	‘	Left Single Quote
+&#146;	&rsquo;	’	Right Single Quote
+&#147;	&ldquo;	“	Left Double Quote
+&#148;	&rdquo;	”	Right Double Quote
+&#153;	&trade;	™	Trademark Symbol
+&#155;	&rsaquo;	›	Single Right Angle Quote
+&#160;	&nbsp;	 	Non Breaking Space
+&#161;	&iexcl;	¡	Inverted Exclamation Point
+&#162;	&cent;	¢	Cent Sign
+&#163;	&pound;	£	Pound Sterling
+&#164;	&curren;	¤	General Currency Sign
+&#165;	&yen;	¥	Yen Sign
+&#166;	&brvbar;	¦	Broken Vertical Bar
+&#167;	&sect;	§	Section Sign
+&#168;	&uml;	¨	Umlaut (Dieresis)
+&#169;	&copy;	©	Copyright Symbol
+&#170;	&ordf;	ª	Feminine Ordinal
+&#171;	&laquo;	«	Left Angle Quote, Left Guillemet
+&#172;	&not;	¬	Not Sign
+&#173;	&shy;	­	Soft Hyphen
+&#174;	&reg;	®	Registered Trademark
+&#175;	&macr;	¯	Macron, Overline
+&#176;	&deg;	°	Degree Sign
+&#177;	&plusmn;	±	Plus or Minus
+&#178;	&sup2;	²	Superscript Two
+&#179;	&sup3;	³	Superscript Three
+&#180;	&acute;	´	Acute Accent
+&#181;	&micro;	µ	Micro Symbol
+&#182;	&para;	¶	Paragraph Symbol
+&#183;	&middot;	·	Middle Dot
+&#184;	&cedil;	¸	Cedilla
+&#185;	&sup1;	¹	Superscript One
+&#186;	&ordm;	º	Masculine Ordinal
+&#187;	&raquo;	»	Right Angle Quote, Right Guillemet
+&#188;	&frac14;	¼	One Fourth Fraction
+&#189;	&frac12;	½	One Half Fraction
+&#190;	&frac34;	¾	Three Forths Fraction
+&#191;	&iquest;	¿	Inverted Question Mark
+&#192;	&Agrave;	À	Capital A with Grave Accent
+&#193;	&Aacute;	Á	Capital A with Acute Accent
+&#194;	&Acirc;	Â	Capital A with Circumflex Accent
+&#195;	&Atilde;	Ã	Capital A with Tilde
+&#196;	&Auml;	Ä	Capital A with Dieresis/Umlaut
+&#197;	&Aring;	Å	Capital A with Ring
+&#198;	&AElig;	Æ	Capital AE Dipthong
+&#199;	&Ccedil;	Ç	Capital C with Cedilla
+&#200;	&Egrave;	È	Capital E with Grave Accent
+&#201;	&Eacute;	É	Capital E with Acute Accent
+&#202;	&Ecirc;	Ê	Capital E with Circumflex Accent
+&#203;	&Euml;	Ë	Capital E with Dieresis/Umlaut
+&#204;	&Igrave;	Ì	Capital I with Grave Accent
+&#205;	&Iacute;	Í	Capital I with Acute Accent
+&#206;	&Icirc;	Î	Capital I with Circumflex Accent
+&#207;	&Iuml;	Ï	Capital I with Dieresis/Umlaut
+&#208;	&ETH;	Ð	Capital Eth
+&#209;	&Ntilde;	Ñ	Capital N with Tilde
+&#210;	&Ograve;	Ò	Capital O with Grave Accent
+&#211;	&Oacute;	Ó	Capital O with Acute Accent
+&#212;	&Ocirc;	Ô	Capital O with Circumflex Accent
+&#213;	&Otilde;	Õ	Capital O with Tilde
+&#214;	&Ouml;	Ö	Capital O with Dieresis/Umlaut
+&#215;	&times;	×	Multiplication Sign
+&#216;	&Oslash;	Ø	Capital O with a Slash
+&#217;	&Ugrave;	Ù	Capital U with Grave Accent
+&#218;	&Uacute;	Ú	Capital U with Acute Accent
+&#219;	&Ucirc;	Û	Capital U with Circumflex Accent
+&#220;	&Uuml;	Ü	Capital U with Dieresis/Umlaut
+&#221;	&Yacute;	Ý	Capital Ywith Acute Accent
+&#222;	&THORN;	Þ	Capital Thorn
+&#223;	&szlig;	ß	Small Sharp s
+&#224;	&agrave;	à	Small a with Grave Accent
+&#225;	&aacute;	á	Small a with Acute Accent
+&#226;	&acirc;	â	Small a with Circumflex Accent
+&#227;	&atilde;	ã	Small a with Tilde
+&#228;	&auml;	ä	Small a with Dieresis/Umlaut
+&#229;	&aring;	å	Small a with Ring
+&#230;	&aelig;	æ	Small ae Dipthong
+&#231;	&ccedil;	ç	Small c with Cedilla
+&#232;	&egrave;	è	Small e with Grave Accent
+&#233;	&eacute;	é	Small e with Acute Accent
+&#234;	&ecirc;	ê	Small e with Circumflex Accent
+&#235;	&euml;	ë	Small e with Dieresis/Umlaut
+&#236;	&igrave;	ì	Small i with Grave Accent
+&#237;	&iacute;	í	Small i with Acute Accent
+&#238;	&icirc;	î	Small i with Circumflex Accent
+&#239;	&iuml;	ï	Small i with Dieresis/Umlaut
+&#240;	&eth;	ð	Small eth
+&#241;	&ntilde;	ñ	Small n with Tilde
+&#242;	&ograve;	ò	Small o with Grave Accent
+&#243;	&oacute;	ó	Small o with Acute Accent
+&#244;	&ocirc;	ô	Small o with Circumflex Accent
+&#245;	&otilde;	õ	Small o with Tilde
+&#246;	&ouml;	ö	Small o with Dieresis/Umlaut
+&#247;	&divide;	÷	Division Sign
+&#248;	&oslash;	ø	Small o with a Slash
+&#249;	&ugrave;	ù	Small u with Grave Accent
+&#250;	&uacute;	ú	Small u with Acute Accent
+&#251;	&ucirc;	û	Small u with Circumflex Accent
+&#252;	&uuml;	ü	Small u with Dieresis/Umlaut
+&#253;	&yacute;	ý	Small y with Acute Accent
+&#254;	&thorn;	þ	Small Thorn
+&#255;	&yuml;	ÿ	Small y with Dieresis/Umlaut
+&#402;	&fnof;	ƒ	Small f with hook
+&#913;	&Alpha;	Α	Greek Capital Letter Alpha
+&#914;	&Beta;	Β	Greek Capital Letter Beta
+&#915;	&Gamma;	Γ	Greek Capital Letter Gamma
+&#916;	&Delta;	Δ	Greek Capital Letter Delta
+&#917;	&Epsilon;	Ε	Greek Capital Letter Epsilon
+&#918;	&Zeta;	Ζ	Greek Capital Letter Zeta
+&#919;	&Eta;	Η	Greek Capital Letter Eta
+&#920;	&Theta;	Θ	Greek Capital Letter Theta
+&#921;	&Iota;	Ι	Greek Capital Letter Iota
+&#922;	&Kappa;	Κ	Greek Capital Letter Kappa
+&#923;	&Lambda;	Λ	Greek Capital Letter Lambda
+&#924;	&Mu;	Μ	Greek Capital Letter Mu
+&#925;	&Nu;	Ν	Greek Capital Letter Nu
+&#926;	&Xi;	Ξ	Greek Capital Letter Xi
+&#927;	&Omicron;	Ο	Greek Capital Letter Omicron
+&#928;	&Pi;	Π	Greek Capital Letter Pi
+&#929;	&Rho;	Ρ	Greek Capital Letter Rho
+&#931;	&Sigma;	Σ	Greek Capital Letter Sigma
+&#932;	&Tau;	Τ	Greek Capital Letter Tau
+&#933;	&Upsilon;	Υ	Greek Capital Letter Upsilon
+&#934;	&Phi;	Φ	Greek Capital Letter Phi
+&#935;	&Chi;	Χ	Greek Capital Letter Chi
+&#936;	&Psi;	Ψ	Greek Capital Letter Psi
+&#937;	&Omega;	Ω	Greek Capital Letter Omega
+&#945;	&alpha;	α	Greek Small Letter Alpha
+&#946;	&beta;	β	Greek Small Letter Beta
+&#947;	&gamma;	γ	Greek Small Letter Gamma
+&#948;	&delta;	δ	Greek Small Letter Delta
+&#949;	&epsilon;	ε	Greek Small Letter Epsilon
+&#950;	&zeta;	ζ	Greek Small Letter Zeta
+&#951;	&eta;	η	Greek Small Letter Eta
+&#952;	&theta;	θ	Greek Small Letter Theta
+&#953;	&iota;	ι	Greek Small Letter Iota
+&#954;	&kappa;	κ	Greek Small Letter Kappa
+&#955;	&lambda;	λ	Greek Small Letter Lambda
+&#956;	&mu;	μ	Greek Small Letter Mu
+&#957;	&nu;	ν	Greek Small Letter Nu
+&#958;	&xi;	ξ	Greek Small Letter Xi
+&#959;	&omicron;	ο	Greek Small Letter Omicron
+&#960;	&pi;	π	Greek Small Letter Pi
+&#961;	&rho;	ρ	Greek Small Letter Rho
+&#962;	&sigmaf;	ς	Greek Small Letter Final Sigma
+&#963;	&sigma;	σ	Greek Small Letter Sigma
+&#964;	&tau;	τ	Greek Small Letter Tau
+&#965;	&upsilon;	υ	Greek Small Letter Upsilon
+&#966;	&phi;	φ	Greek Small Letter Phi
+&#967;	&chi;	χ	Greek Small Letter Chi
+&#968;	&psi;	ψ	Greek Small Letter Psi
+&#969;	&omega;	ω	Greek Small Letter Omega
+&#977;	&thetasym;	ϑ	Greek Small Letter Theta Symbol
+&#978;	&upsih;	ϒ	Greek Upsilon with Hook Symbol
+&#982;	&piv;	ϖ	Greek pi Symbol
+&#8226;	&bull;	•	Bullet / Black Small Circle
+&#8230;	&hellip;	…	Horizontal Ellipsis
+&#8242;	&prime;	′	Prime / Minutes / Feet
+&#8243;	&Prime;	″	Double Prime / Seconds / Inches
+&#8254;	&oline;	‾	Overline
+&#8465;	&image;	ℑ	Blackletter Capital I / Imaginary Part
+&#8472;	&weierp;	℘	Script Capital P / Power Set
+&#8476;	&real;	ℜ	Blackletter Capital R / Real Part Symbol
+&#8501;	&alefsym;	ℵ	Alef Symbol / First Transfinite Cardinal
+&#8592;	&larr;	←	Left Arrow
+&#8593;	&uarr;	↑	Up Arrow
+&#8594;	&rarr;	→	Right Arrow
+&#8595;	&darr;	↓	Down Arrow
+&#8596;	&harr;	↔	Left-Right Arrow
+&#8629;	&crarr;	↵	Carrige Return / Downward Left Arrow
+&#8656;	&lArr;	⇐	Double Left Arrow
+&#8657;	&uArr;	⇑	Double Up Arrow
+&#8658;	&rArr;	⇒	Double Right Arrow
+&#8659;	&dArr;	⇓	Double Down Arrow
+&#8660;	&hArr;	⇔	Double Left-Right Arrow
+&#8704;	&forall;	∀	For All
+&#8706;	&part;	∂	Partial Differential
+&#8707;	&exist;	∃	There Exists
+&#8709;	&empty;	∅	Empty Set
+&#8711;	&nabla;	∇	Nabla / Backwards Difference
+&#8712;	&isin;	∈	Element Of
+&#8713;	&notin;	∉	Not An Element of
+&#8715;	&ni;	∋	Contains As Member
+&#8719;	&prod;	∏	Product Sign
+&#8721;	&sum;	∑	Sumation
+&#8722;	&minus;	−	Minus Sign
+&#8727;	&lowast;	∗	Asterisk Operator
+&#8730;	&radic;	√	Square Root / Radical Sign
+&#8733;	&prop;	∝	Proportional To
+&#8734;	&infin;	∞	Infinity
+&#8736;	&ang;	∠	Angle
+&#8743;	&and;	∧	Logical And / Wedge
+&#8744;	&or;	∨	Logical Or / Vee
+&#8745;	&cap;	∩	Inersection / Cap
+&#8746;	&cup;	∪	Union / Cup
+&#8747;	&int;	∫	Integral
+&#8756;	&there4;	∴	Therefore
+&#8764;	&sim;	∼	Tilde Operator / Similar To / Varies With
+&#8773;	&cong;	≅	Approximately Equal To
+&#8776;	&asymp;	≈	Almost Equal To / Asymptotic To
+&#8800;	&ne;	≠	Not Equal To
+&#8801;	&equiv;	≡	Identical To
+&#8804;	&le;	≤	Less Than or Equal To
+&#8805;	&ge;	≥	Greater Than or Equal To
+&#8834;	&sub;	⊂	Subset Of
+&#8835;	&sup;	⊃	Superset Of
+&#8836;	&nsub;	⊄	Not A Subset Of
+&#8838;	&sube;	⊆	Subset Of Or Equal To
+&#8839;	&supe;	⊇	Superset Of Or Equal To
+&#8853;	&oplus;	⊕	Circled Plus / Direct Sum
+&#8855;	&otimes;	⊗	Circled Times / Vector Product
+&#8869;	&perp;	⊥	Up Tack / Orthogonal To / Perpendicular
+&#8901;	&sdot;	⋅	Dot Operator
+&#8968;	&lceil;	⌈	Left Ceiling / Apl Upstile
+&#8969;	&rceil;	⌉	Right Ceiling
+&#8970;	&lfloor;	⌊	Left Floor / Apl Downstile
+&#8971;	&rfloor;	⌋	Right Floor
+&#9001;	&lang;	〈	Left-Pointing Angle Bracket / Bra
+&#9002;	&rang;	〉	Right-Pointing Angle Bracket / Ket
+&#9674;	&loz;	◊	Lozenge
+&#9824;	&spades;	♠	Black Spade Suit
+&#9827;	&clubs;	♣	Black Club Suit
+&#9829;	&hearts;	♥	Black Heart Suit
+&#9830;	&diams;	♦	Black Diamond Suit
